@@ -34,6 +34,10 @@ body {
 
   .navbar-brand{
     width: 100px;
+    background-color: black;
   }
 
+}
+.img-fluid  {
+  width: 250px;
 }
